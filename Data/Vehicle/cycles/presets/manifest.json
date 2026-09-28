@@ -1,0 +1,125 @@
+[
+  {
+    "id": "teaching-60",
+    "label": "Навчальний цикл 60 с (короткий приклад, не WLTC)",
+    "source": "Data/Vehicle/cycles/Teaching_60_s.csv",
+    "sourceType": "project-design-assumption",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1"
+    ],
+    "limitations": [
+      "Коротка демонстрація розрахунку на шести заданих точках до 20 км/год; не виміряний чи типовий маршрут і не сертифікаційний цикл."
+    ]
+  },
+  {
+    "id": "wltc1",
+    "label": "WLTC Class 1",
+    "source": "Data/Vehicle/external-data/JRC-WLTC/V_class1.txt",
+    "repository": "https://github.com/JRCSTU/wltp",
+    "commit": "18650f372044371ed994a161a93473a75e76d2a9",
+    "normalisationNotes": [
+      "Complete one-second GTR trace; no speed scaling or clipping."
+    ]
+  },
+  {
+    "id": "wltc2",
+    "label": "WLTC Class 2",
+    "source": "Data/Vehicle/external-data/JRC-WLTC/V_class2.txt",
+    "repository": "https://github.com/JRCSTU/wltp",
+    "commit": "18650f372044371ed994a161a93473a75e76d2a9",
+    "normalisationNotes": [
+      "Complete one-second GTR trace; no speed scaling or clipping."
+    ]
+  },
+  {
+    "id": "wltc3",
+    "label": "WLTC Class 3b",
+    "source": "Data/Vehicle/external-data/JRC-WLTC/V_class3b.txt",
+    "repository": "https://github.com/JRCSTU/wltp",
+    "commit": "18650f372044371ed994a161a93473a75e76d2a9",
+    "normalisationNotes": [
+      "Complete one-second GTR trace; no speed scaling or clipping."
+    ]
+  },
+  {
+    "id": "nedc",
+    "label": "NEDC",
+    "source": "Data/Vehicle/external-data/driving-cycles/WLTP_Europe/NEDC.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1",
+      "стовпець ухилу без одиниці й увесь нульовий — підписано як м/м"
+    ]
+  },
+  {
+    "id": "ftp75",
+    "label": "FTP-75 (EPA місто)",
+    "source": "Data/Vehicle/external-data/driving-cycles/EPA/FTP75.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1",
+      "стовпець ухилу без одиниці й увесь нульовий — підписано як м/м"
+    ]
+  },
+  {
+    "id": "hwfet",
+    "label": "HWFET (EPA траса)",
+    "source": "Data/Vehicle/external-data/driving-cycles/EPA/HWFET.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1",
+      "піднято до нуля від'ємних швидкостей у межах шуму: 3"
+    ]
+  },
+  {
+    "id": "artemis-urban",
+    "label": "Artemis Urban",
+    "source": "Data/Vehicle/external-data/driving-cycles/Artemis/Artemis_Urban.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1",
+      "стовпець ухилу без одиниці й увесь нульовий — підписано як м/м"
+    ]
+  },
+  {
+    "id": "artemis-rural",
+    "label": "Artemis Rural",
+    "source": "Data/Vehicle/external-data/driving-cycles/Artemis/Artemis_Rural.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1",
+      "стовпець ухилу без одиниці й увесь нульовий — підписано як м/м"
+    ]
+  },
+  {
+    "id": "artemis-hw130",
+    "label": "Artemis Motorway 130",
+    "source": "Data/Vehicle/external-data/driving-cycles/Artemis/Artemis_HW130.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1",
+      "стовпець ухилу без одиниці й увесь нульовий — підписано як м/м"
+    ]
+  },
+  {
+    "id": "udds",
+    "label": "UDDS (EPA місто, окремо)",
+    "source": "Data/Vehicle/external-data/driving-cycles/EPA/uddscol.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1"
+    ]
+  },
+  {
+    "id": "us06",
+    "label": "US06 (EPA агресивний)",
+    "source": "Data/Vehicle/external-data/driving-cycles/EPA/US06.csv",
+    "normalisationNotes": [
+      "відкинуто порожніх рядків: 1",
+      "піднято до нуля від'ємних швидкостей у межах шуму: 11"
+    ]
+  },
+  {
+    "id": "wltc3a",
+    "label": "WLTC Class 3a",
+    "source": "Data/Vehicle/external-data/JRC-WLTC/V_class3a.txt",
+    "repository": "https://github.com/JRCSTU/wltp",
+    "commit": "18650f372044371ed994a161a93473a75e76d2a9",
+    "normalisationNotes": [
+      "Complete one-second GTR trace; no speed scaling or clipping."
+    ]
+  }
+]
