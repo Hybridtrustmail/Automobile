@@ -1,0 +1,89 @@
+{
+  "schema": "prototype-validation-cycles-v1",
+  "note": "Реєстр циклів. Порівнювати опубліковане число можна ЛИШЕ з тим циклом, за яким його здобуто; решта циклів тут — щоб побачити, наскільки відповідь залежить від самого циклу, а не від машини.",
+  "root": "../external-data/driving-cycles",
+  "cycles": [
+    {
+      "id": "wltc1",
+      "label": "WLTC Class 1 (низька питома потужність)",
+      "family": "WLTP",
+      "path": "WLTP_Europe/WLTC_Class_1_v1.4.csv",
+      "comparable": true
+    },
+    {
+      "id": "wltc2",
+      "label": "WLTC Class 2 (середня питома потужність)",
+      "family": "WLTP",
+      "path": "WLTP_Europe/WLTC_Class_2_v1.4.csv",
+      "comparable": true
+    },
+    {
+      "id": "wltc3",
+      "label": "WLTC Class 3",
+      "family": "WLTP",
+      "path": "WLTP_Europe/WLTC_Class_3_v53.csv",
+      "comparable": true
+    },
+    {
+      "id": "nedc",
+      "label": "NEDC",
+      "family": "NEDC",
+      "path": "WLTP_Europe/NEDC.csv",
+      "comparable": false
+    },
+    {
+      "id": "ftp75",
+      "label": "FTP-75 (EPA місто)",
+      "family": "EPA",
+      "path": "EPA/FTP75.csv",
+      "comparable": false
+    },
+    {
+      "id": "hwfet",
+      "label": "HWFET (EPA траса)",
+      "family": "EPA",
+      "path": "EPA/HWFET.csv",
+      "comparable": false
+    },
+    {
+      "id": "artemis-urban",
+      "label": "Artemis Urban",
+      "family": "Artemis",
+      "path": "Artemis/Artemis_Urban.csv",
+      "comparable": false
+    },
+    {
+      "id": "artemis-rural",
+      "label": "Artemis Rural",
+      "family": "Artemis",
+      "path": "Artemis/Artemis_Rural.csv",
+      "comparable": false
+    },
+    {
+      "id": "artemis-hw130",
+      "label": "Artemis Motorway 130",
+      "family": "Artemis",
+      "path": "Artemis/Artemis_HW130.csv",
+      "comparable": false
+    },
+    {
+      "id": "udds",
+      "label": "UDDS (EPA місто, окремо)",
+      "family": "EPA",
+      "path": "EPA/uddscol.csv",
+      "comparable": false
+    },
+    {
+      "id": "us06",
+      "label": "US06 (EPA агресивний)",
+      "family": "EPA",
+      "path": "EPA/US06.csv",
+      "comparable": false
+    }
+  ],
+  "normalisation": {
+    "zeroGradeUnitlessHeader": "Файли EPA, NEDC й Artemis підписують стовпець ухилу як «Slope (alpha)» — одиниці там немає. Стенд приймає такий заголовок ЛИШЕ тоді, коли всі значення ухилу нульові: у стовпця з нулів немає одиниці, яку можна переплутати. Строгий парсер документа лишається строгим.",
+    "roundingNoiseBelowZero": "HWFET має −0,16 км/год на 775-й секунді — шум округлення джерела. Значення в межах 0,25 км/год нижче нуля стенд піднімає до нуля й каже про це.",
+    "trailingBlankRows": "Порожні рядки в кінці файлу відкидають."
+  }
+}

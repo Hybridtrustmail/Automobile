@@ -1,0 +1,1026 @@
+{
+  "schema": "vehicle-external-data-v1",
+  "note": "Frozen builder and validation inputs; literature remains in bibliography. Paths relative to Data/Vehicle.",
+  "files": [
+    {
+      "path": "external-data/driving-cycles/Artemis/Artemis_HW130.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Artemis/Artemis_HW130.csv",
+      "bytes": 12198,
+      "sha256": "c1fa1354498f72a0ba948ae506fa020f5291f9be36b8a280a0d187d7bb0d6abb"
+    },
+    {
+      "path": "external-data/driving-cycles/Artemis/Artemis_HW150.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Artemis/Artemis_HW150.csv",
+      "bytes": 12146,
+      "sha256": "1ce25e53199bab126153fa6420345853227830fde70f103659ade31281132edc"
+    },
+    {
+      "path": "external-data/driving-cycles/Artemis/Artemis_Rural.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Artemis/Artemis_Rural.csv",
+      "bytes": 11700,
+      "sha256": "e639783c972eb1900b3fa4b9b041132b5b297e1e5eb2904968df28410946114a"
+    },
+    {
+      "path": "external-data/driving-cycles/Artemis/Artemis_Urban.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Artemis/Artemis_Urban.csv",
+      "bytes": 9762,
+      "sha256": "e05a79aee8dae0371976e636d995699687ad2e4b60afd278a3cf4b7285adae06"
+    },
+    {
+      "path": "external-data/driving-cycles/Artemis/Artemis_Urban_Road_HW130.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Artemis/Artemis_Urban_Road_HW130.csv",
+      "bytes": 35727,
+      "sha256": "441a5fd37a4e57a3be2f7e0ecf2f1620f3ec525cbe6f8f10cd7fbcde1c28e8f6"
+    },
+    {
+      "path": "external-data/driving-cycles/Artemis/Artemis_Urban_Road_HW150.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Artemis/Artemis_Urban_Road_HW150.csv",
+      "bytes": 35675,
+      "sha256": "26d0aa0d83dcf1cf43b5ab6d3b02277bb7f85a22530b17436045d9d3f39f693c"
+    },
+    {
+      "path": "external-data/driving-cycles/Asia/CLTC_P.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Asia/CLTC_P.csv",
+      "bytes": 15297,
+      "sha256": "45fe053275119cfea86d0793669e7974e9eb337d21c1ac55804c878dc12f6109"
+    },
+    {
+      "path": "external-data/driving-cycles/Asia/EPA_j1015col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Asia/EPA_j1015col.csv",
+      "bytes": 6805,
+      "sha256": "a6b785ded292e8b8584b39f97484997f37edf482dab8a3982918ad6f3e94ca5a"
+    },
+    {
+      "path": "external-data/driving-cycles/Asia/EPA_jpn10col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Asia/EPA_jpn10col.csv",
+      "bytes": 1091,
+      "sha256": "940fef584e827640819b46fb34b664f98fc38c1a3ed3a31f51241a3e8ceb1f2d"
+    },
+    {
+      "path": "external-data/driving-cycles/Asia/EPA_jpn15col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Asia/EPA_jpn15col.csv",
+      "bytes": 1871,
+      "sha256": "93d8f4360563144b7b2661267b2a9413dd2104a53a4b0c8868e6b96b77949673"
+    },
+    {
+      "path": "external-data/driving-cycles/Asia/JC08.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Asia/JC08.csv",
+      "bytes": 12582,
+      "sha256": "3c02b03292dc6c5b96c91319a93af61e9effb51a582a6857acc90301242d1c60"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/FTP75.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/FTP75.csv",
+      "bytes": 21941,
+      "sha256": "4aa0d9c0225262c3785da536588e27c40417053785e1bbc2aa40b327a21d4d1a"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/HWFET.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/HWFET.csv",
+      "bytes": 9158,
+      "sha256": "9e72aa3b8ba6fa2f2382044025b994148f9a2036d765ab3818897360c8fd9da2"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/SFTP_us06col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/SFTP_us06col.csv",
+      "bytes": 10468,
+      "sha256": "499a39851e3b9c9b497626abf7f777ed0425f3574c6034ce4d524f0fce836308"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/US06.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/US06.csv",
+      "bytes": 7131,
+      "sha256": "3c4495918c5a0ebc6af7caaf85996e90bc7bee7f25b1ed291814136b326c2846"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/epa-new-york-city-cycle.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/epa-new-york-city-cycle.csv",
+      "bytes": 5106,
+      "sha256": "8e8ef2aa14464be80be94b881a2660f4d15afd099ef1f5bfd9d1ace19368942a"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/eudccol.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/eudccol.csv",
+      "bytes": 4836,
+      "sha256": "74be2858fdb266977f6ae3384617b087b3981039251a38e810f085f9aab5f1dd"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/ftp10hz_flat.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/ftp10hz_flat.csv",
+      "bytes": 323117,
+      "sha256": "97310af027aae71c172de638e05be446975cca016a5a71f6c23d5162fc0b9776"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/ftpcol.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/ftpcol.csv",
+      "bytes": 30429,
+      "sha256": "bdddcd38521f3e63c5f5effa052a467309d080179723213eb7d518b615dba047"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/hwy10hz.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/hwy10hz.csv",
+      "bytes": 280490,
+      "sha256": "f676ad3e25dc9905754508cc7282d6a397c7bf61aee692225756078837c1852e"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/hwycol.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/hwycol.csv",
+      "bytes": 12931,
+      "sha256": "906c7b3256882039e06b5f1ca8656a2ab9b3f5db5c39254a6dafefe0b8bc3b67"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/im240col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/im240col.csv",
+      "bytes": 4062,
+      "sha256": "7e07f442a385e574aecebeafac831be92d18d0a5efa06c7c053284f70a9bef38"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/la92col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/la92col.csv",
+      "bytes": 28786,
+      "sha256": "b45b17f3154e3b4ca31abdaca5fedea31b6cd4a3ea06349326279699f3b69151"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/la92dds.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/la92dds.csv",
+      "bytes": 23944,
+      "sha256": "533a2ceb5b7806d661759a91708645d3d18ed15b666a12b867c6919b4cb1abae"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/la92shortdds.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/la92shortdds.csv",
+      "bytes": 15753,
+      "sha256": "e1775b1a189907bddc144b9ceb93f30125d01427432d34dce1f23dcadeba85f0"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/sc03col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/sc03col.csv",
+      "bytes": 10157,
+      "sha256": "32188ffe0a63e0a437576fba265592e0258c4e7f59d3c2d3261c95cd1b6b5f93"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/uddscol.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/uddscol.csv",
+      "bytes": 21911,
+      "sha256": "87a833ebee80e994c3d7701d7e905e0231987049006372fa95527f2a0ddb7c3a"
+    },
+    {
+      "path": "external-data/driving-cycles/EPA/us06col.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/EPA/us06col.csv",
+      "bytes": 10782,
+      "sha256": "308f4f6fda090eeba6771811b331816df02aa5b836d5c424f9bad152a19b0b33"
+    },
+    {
+      "path": "external-data/driving-cycles/Special/Grossglockner_downHilldrive.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Special/Grossglockner_downHilldrive.csv",
+      "bytes": 10269,
+      "sha256": "32fe7aab19f92b3f8974ca86a2fb1c5a449a5f56984af17f329f0e3fcc15e81f"
+    },
+    {
+      "path": "external-data/driving-cycles/Special/Grossglockner_upHilldrive.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/Special/Grossglockner_upHilldrive.csv",
+      "bytes": 9401,
+      "sha256": "de927162cabf61e72c38e0e7746c34f0500d97a1a8bc3c1145a402a580d020a5"
+    },
+    {
+      "path": "external-data/driving-cycles/WLTP_Europe/NEDC.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/WLTP_Europe/NEDC.csv",
+      "bytes": 12260,
+      "sha256": "817969c91df3bbac3abaa69246f2057c35059c0b8d71056ed71661380c020dd1"
+    },
+    {
+      "path": "external-data/driving-cycles/WLTP_Europe/WLTC.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/WLTP_Europe/WLTC.csv",
+      "bytes": 21027,
+      "sha256": "5e65b1387f8f64b43e37352b2dd5760923360ab7bb261f117e570b4e3af0ab2b"
+    },
+    {
+      "path": "external-data/driving-cycles/WLTP_Europe/WLTC_Class_1_v1.4.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/WLTP_Europe/WLTC_Class_1_v1.4.csv",
+      "bytes": 15338,
+      "sha256": "8da55c21edcc296b8df43f073086985c7359f9414d5654da6c7794cc895fdc7b"
+    },
+    {
+      "path": "external-data/driving-cycles/WLTP_Europe/WLTC_Class_2_v1.4.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/WLTP_Europe/WLTC_Class_2_v1.4.csv",
+      "bytes": 22584,
+      "sha256": "031b3cc067ba6dc2d58a581101292333734ee189e26a7174fd86e26265a8d2da"
+    },
+    {
+      "path": "external-data/driving-cycles/WLTP_Europe/WLTC_Class_3_v53.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Drive_cycles_prjct/Data/standardized_cycles/WLTP_Europe/WLTC_Class_3_v53.csv",
+      "bytes": 21413,
+      "sha256": "7ab1ef55cf494becb4261dfecc7b2daaa800c09c5fa1e9cc6e0d41dbfa1b10d7"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2010 Mazda 3 i-Stop.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2010 Mazda 3 i-Stop.yaml",
+      "bytes": 1788,
+      "sha256": "96fb5e35a06dafb69632f643d7cd31d745a3491e3bba732224acb49435de2f9d"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2012 Ford Focus.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2012 Ford Focus.yaml",
+      "bytes": 1781,
+      "sha256": "577a3f4c3b188895d81cbb04ea72c9cabb12c61b5a2287ffb17885ba8176b751"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2012 Ford Fusion.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2012 Ford Fusion.yaml",
+      "bytes": 1783,
+      "sha256": "c624e0209d1ba9c979e94f94faa5a529ffb88166981adde734268fdd8d9f126a"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 AUDI A3 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 AUDI A3 4cyl 2WD.yaml",
+      "bytes": 1785,
+      "sha256": "9f1cda358be9573d035e247a8aeb5715ea6df69be3856a64b796796ff5818575"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 BMW 328d 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 BMW 328d 4cyl 2WD.yaml",
+      "bytes": 1784,
+      "sha256": "20a947c06d0fd46da03ad2204978fce3483d273962c79c9ac47809dd794268d5"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 BMW i3 REx PHEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 BMW i3 REx PHEV.yaml",
+      "bytes": 1813,
+      "sha256": "f25c9f6d5bffef318f1cc20bcc3cb03b8d685fd36276806e4a5adf3172ef9caf"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 CHEVROLET Malibu 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 CHEVROLET Malibu 4cyl 2WD.yaml",
+      "bytes": 1790,
+      "sha256": "32da2bd6b371d1ab068578acf3b7b48e03dc308a82686e7468fe0e2144611fda"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 CHEVROLET Spark EV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 CHEVROLET Spark EV.yaml",
+      "bytes": 1808,
+      "sha256": "bb9f5525dc987a25f0ea083433b1228e93e392dec66b069b78e2ac48f0822c05"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 CHEVROLET Volt.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 CHEVROLET Volt.yaml",
+      "bytes": 1809,
+      "sha256": "ddca6f6ce3baa97a680de441accffbd300fc17e7ff0e90120cb2d7a1c0f4355b"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 FORD C-MAX (PHEV).yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 FORD C-MAX (PHEV).yaml",
+      "bytes": 1942,
+      "sha256": "27ed32a6e4dd869d6321d02cada0c2481e27fc4dff5828bc04945e6fa9862133"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 FORD C-MAX HEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 FORD C-MAX HEV.yaml",
+      "bytes": 1942,
+      "sha256": "72bc6a9e8f1fa761a0978d38a34f19baf41667db564be4d314536c18591cc958"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 FORD Escape 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 FORD Escape 4cyl 2WD.yaml",
+      "bytes": 1786,
+      "sha256": "805716a12b0f0f468dd4c665057da2bfd1c49de71a0a5d2cc09db1af6806b4e0"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 FORD Explorer 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 FORD Explorer 4cyl 2WD.yaml",
+      "bytes": 1787,
+      "sha256": "3966b292781784fca0b4af53e912e07864606f39cf747c4ad4861893505f75d4"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 HYUNDAI Elantra 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 HYUNDAI Elantra 4cyl 2WD.yaml",
+      "bytes": 1788,
+      "sha256": "780e3a00b33b4df2950936f7baff0ee279d26dffed7c989729c8c0fa1d399354"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 HYUNDAI Sonata PHEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 HYUNDAI Sonata PHEV.yaml",
+      "bytes": 1945,
+      "sha256": "772735df411ab28f6b1367efe0f413e28d3e750ae6aad3f80b6e7c823caf4366"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 Hyundai Tucson Fuel Cell.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 Hyundai Tucson Fuel Cell.yaml",
+      "bytes": 1835,
+      "sha256": "dd00184f04e031e03d30af80d034c4cfa85dc4f024bc58097783826c2e57bd9f"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 KIA Optima Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 KIA Optima Hybrid.yaml",
+      "bytes": 1943,
+      "sha256": "f14e046763f171f64a0ae9ba3ca96bdd7e3e3ff6c9428ece566ac10668719bd1"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 Leaf 24 kWh.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 Leaf 24 kWh.yaml",
+      "bytes": 1800,
+      "sha256": "32b0d3b5c45f829cb6be333472c28db4541f52a6e9e79af585e070cb5563e3d3"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 MITSUBISHI i-MiEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 MITSUBISHI i-MiEV.yaml",
+      "bytes": 1930,
+      "sha256": "0919ebb2ffc443962897093ea245095ba87ffab694bb4d6651e90c93ef50ed9d"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 Nissan Leaf 30 kWh.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 Nissan Leaf 30 kWh.yaml",
+      "bytes": 1807,
+      "sha256": "a2d505aefe259d50cc8e4b2798c54f76b5d94cf0fdba610ebec620b1bae322ed"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 TESLA Model S60 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 TESLA Model S60 2WD.yaml",
+      "bytes": 1810,
+      "sha256": "08b0d11a851e376cb5567ae175c08a48e274509f83e2a0c50baed50e18e1deaa"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 TOYOTA Camry 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 TOYOTA Camry 4cyl 2WD.yaml",
+      "bytes": 1786,
+      "sha256": "542bc75dcb08aa925820e9972e38b19a23e4f00f051c2b6410aaa5f67c473908"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 TOYOTA Corolla 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 TOYOTA Corolla 4cyl 2WD.yaml",
+      "bytes": 1787,
+      "sha256": "7ad3b5c725114c3a627e41546be23b464b9d004bcf72d37fab2718e3aeada6cf"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 TOYOTA Highlander Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 TOYOTA Highlander Hybrid.yaml",
+      "bytes": 1823,
+      "sha256": "1b758fa97e659af26ef39365d99331af41a1e9302f7a347d40e2309bf1d8b55d"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2016 Toyota Prius Two FWD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2016 Toyota Prius Two FWD.yaml",
+      "bytes": 1800,
+      "sha256": "03e065742d28afde123f2e7cb2ffc67722b3ea22f955f68b01938c06edbdb599"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2017 CHEVROLET Bolt.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2017 CHEVROLET Bolt.yaml",
+      "bytes": 1802,
+      "sha256": "67716d373e60b1c15f068849d01f0e4c3f06d55579d215d517cd97a40642cc98"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2017 Maruti Dzire VDI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2017 Maruti Dzire VDI.yaml",
+      "bytes": 1785,
+      "sha256": "a966b9a370574ab958dbdf19d101cbeff4c4a7b5d41055f1d7ad2ae7fd05ffad"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2017 Prius Prime.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2017 Prius Prime.yaml",
+      "bytes": 1937,
+      "sha256": "2262dd79ed06cc94d3c92087941dcc8dd7a196274729bfd1e04710b708cae9b7"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2017 Toyota Highlander 3.5 L.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2017 Toyota Highlander 3.5 L.yaml",
+      "bytes": 1800,
+      "sha256": "9f15767f0350b4e880133855053dcf1d35ce7c90345d25b5de41604c50538c48"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2020 Chevrolet Colorado 2WD Diesel.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2020 Chevrolet Colorado 2WD Diesel.yaml",
+      "bytes": 1799,
+      "sha256": "94278accd4248da4b05176a8dd0669c8ee2641e00eafcb4e8243ad0cb925eff5"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2020 Hero Splendor+ 100cc.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2020 Hero Splendor+ 100cc.yaml",
+      "bytes": 1836,
+      "sha256": "776f31ba564dfc9e326eb12e8fc0a1d5fa2e2e693c9ab704f23eb9c8a70a9b8d"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2020 VW Golf 1.5TSI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2020 VW Golf 1.5TSI.yaml",
+      "bytes": 1791,
+      "sha256": "5d04d44c4b726f1447f1fec805ba0a38cddd5fb32784c8ca4ff474e6a26aa8e6"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2020 VW Golf 2.0TDI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2020 VW Golf 2.0TDI.yaml",
+      "bytes": 1794,
+      "sha256": "1567ed9ffb3082dfa702b7b07847857aa07494adb4e468ea46d87eea1304bfc8"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2021 BMW iX xDrive40.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2021 BMW iX xDrive40.yaml",
+      "bytes": 1807,
+      "sha256": "f2a915efab77819317369a16fc420381a852ea9dc928277f8f65e5af45df91ba"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2021 Cupra Born.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2021 Cupra Born.yaml",
+      "bytes": 1804,
+      "sha256": "f750487ec9898cc6013eb364babf7a554621892b48c228389f48d2f8dbd42bbd"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2021 Fiat Panda Mild Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2021 Fiat Panda Mild Hybrid.yaml",
+      "bytes": 1785,
+      "sha256": "1947d783c6dd5a73803e442b58841d6432c4c423eb7497fa544018c51d325a0e"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2021 Honda N-Box G.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2021 Honda N-Box G.yaml",
+      "bytes": 1770,
+      "sha256": "0ba017fd4ba12bea0788be2d24b841e9bd875559192a8059bb4c0ed6f40e3f51"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2021 Peugot 3008.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2021 Peugot 3008.yaml",
+      "bytes": 1776,
+      "sha256": "f5b8a5d40343882474600b2b003b34c7b9e5fd40b1c0f6c2c40591cb419f8d22"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Ford F-150 Lightning 4WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Ford F-150 Lightning 4WD.yaml",
+      "bytes": 1842,
+      "sha256": "0222249e8d64ea8f424ba727bed959913506993f4cbc564d029d1596e058b430"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 MINI Cooper SE Hardtop 2 door.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 MINI Cooper SE Hardtop 2 door.yaml",
+      "bytes": 1810,
+      "sha256": "b85616e679fe3f8f2952c13d8c5b7bbfab7fed6e18a5bc699bc9ca6c85ec9167"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Renault Megane E-Tech.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Renault Megane E-Tech.yaml",
+      "bytes": 1815,
+      "sha256": "3ddd75abaf0699107f29ae74c9afb46a8d62ac63a7c51c343b1b22eea5a4e520"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Renault Zoe ZE50 R135.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Renault Zoe ZE50 R135.yaml",
+      "bytes": 1825,
+      "sha256": "be46ae05074e2fa3c41e0b3838daf43d7d6203b1c5391927e92b88a8080bdfa2"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Tesla Model 3 RWD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Tesla Model 3 RWD.yaml",
+      "bytes": 1830,
+      "sha256": "9e12a72925adada239cd65ec49c5ffdbe1b04b82dcba0173b31e7c18a62a8c55"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Tesla Model Y RWD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Tesla Model Y RWD.yaml",
+      "bytes": 1798,
+      "sha256": "8486c0115876c18521b026758b76171c83f2dbef893ee90721d0f810949b1c18"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Toyota RAV4 Hybrid LE.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Toyota RAV4 Hybrid LE.yaml",
+      "bytes": 1847,
+      "sha256": "2c393f87c33901cfbd02c79ed2c4fdb12872a6ce623dc0b8e3afaee807e339a9"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Toyota Yaris Hybrid Mid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Toyota Yaris Hybrid Mid.yaml",
+      "bytes": 1800,
+      "sha256": "d90f1eb3d43963f15b4d5507e0fda89251cdaf4643c6c5e072ab7c2199a19bdc"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2022 Volvo XC40 Recharge twin.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2022 Volvo XC40 Recharge twin.yaml",
+      "bytes": 1851,
+      "sha256": "64aa310e1ae2518a1249cbb78c7e3ca2891a53b8783749e081fee382f22c6f69"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2023 Mitsubishi Pajero Sport.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2023 Mitsubishi Pajero Sport.yaml",
+      "bytes": 1787,
+      "sha256": "07bb018fdd481f0a45932563699f8b7462db1bab0afef7e5904355928faf15ab"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2023 Polestar 2 Long range Dual motor.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2023 Polestar 2 Long range Dual motor.yaml",
+      "bytes": 1847,
+      "sha256": "536bfa9d0e0cc4e153c4aa61349e7dc07436cae454b32d9e58a803fad57f9660"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2023 Volvo C40 Recharge.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2023 Volvo C40 Recharge.yaml",
+      "bytes": 1826,
+      "sha256": "4477778b1f4ed6178652af92fc67d3a99ab92a2c60183b59390d55882ac11def"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2024 BYD Dolphin Active.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2024 BYD Dolphin Active.yaml",
+      "bytes": 1928,
+      "sha256": "acbacfb390a8af64a9ef6b0b43ac7cdda23a4ef6c75a93e6708c5beff4e2a113"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2024 Toyota Vios 1.5 G.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2024 Toyota Vios 1.5 G.yaml",
+      "bytes": 1783,
+      "sha256": "19ceb05e16fe6468b1e2c5f0c142a12d4af7962cea65f7ce8e208f7a98109bff"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2024 VinFast VF e34.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2024 VinFast VF e34.yaml",
+      "bytes": 1803,
+      "sha256": "9cbc195f6ca09ee1f70951d5891c96d2798a7e753a037f742e9ae08ead27fdb8"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/2024 Volkswagen Polo 1.0 MPI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/2024 Volkswagen Polo 1.0 MPI.yaml",
+      "bytes": 1780,
+      "sha256": "7771f31423b2590568e8c9d44455ed69dabbbfdc3af2fe2622a5840bc250d641"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/BYD ATTO 3.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/BYD ATTO 3.yaml",
+      "bytes": 1805,
+      "sha256": "6becbbf6c0275b61f9590319a0de4b17f4ea071fa96f5d90e952a77b6d137c68"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Bajaj Boxer 150.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Bajaj Boxer 150.yaml",
+      "bytes": 1821,
+      "sha256": "0cb4934c70a98c5083a5908fb3026d157ea4bf17264e00aa00df84f1be41d5eb"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Class 4 Truck (Isuzu NPR HD).yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Class 4 Truck (Isuzu NPR HD).yaml",
+      "bytes": 1790,
+      "sha256": "12353a59d0b32c174b768c969b3afa21551d5b539ff4924c72f9ead141b651c9"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Line Haul Conv.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Line Haul Conv.yaml",
+      "bytes": 1785,
+      "sha256": "939daa58a3f1d36dc801f4b1caa3967909072577fe599a63887c6770bbc2d16a"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Maruti Swift 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Maruti Swift 4cyl 2WD.yaml",
+      "bytes": 1779,
+      "sha256": "60af8bb80ceafd2737477633199bd3e0571deed29b8b64d35a39f4e28afc8da4"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Nissan Navara.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Nissan Navara.yaml",
+      "bytes": 1776,
+      "sha256": "e41f5a350f2d0607a80c1f1c4d0b04f8b50c2e379ea2dbbabd661efc0cccab4a"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Regional Delivery Class 8 Truck.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Regional Delivery Class 8 Truck.yaml",
+      "bytes": 1805,
+      "sha256": "8764c087f6050f15a34e69fdd8f57c3e04e74baae36c33639d575598d17a98a5"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Renault Clio IV diesel.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Renault Clio IV diesel.yaml",
+      "bytes": 1783,
+      "sha256": "139f4c18541da0e7da148cd5421c800d7c87fdf966b3062bc1a04e0ff5e51c3c"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Renault Megane 1.5 dCi Authentique.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Renault Megane 1.5 dCi Authentique.yaml",
+      "bytes": 1795,
+      "sha256": "27f9f5b99675ea313c76cb498e97b3e343162e984dc77e3bb3134561cf7a23cd"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Toyota Corolla Cross Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Toyota Corolla Cross Hybrid.yaml",
+      "bytes": 1796,
+      "sha256": "46143f00531f8a87dd03f8093c79b95ebd03939bc8489189e946b70a1b7133a3"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Toyota Etios Liva diesel.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Toyota Etios Liva diesel.yaml",
+      "bytes": 1787,
+      "sha256": "7cac2f17a7a87c33f9755c810daba7f07c925953eb74b8ed10d93dbf6c46d247"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Toyota Hilux Double Cab 4WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Toyota Hilux Double Cab 4WD.yaml",
+      "bytes": 1790,
+      "sha256": "004a6bc180923d9a125768d0cf3e49e9b9df6ad5607ec62a4afbf30fd4827780"
+    },
+    {
+      "path": "external-data/fastsim/f2-vehicles/Toyota Mirai.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f2-vehicles/Toyota Mirai.yaml",
+      "bytes": 1799,
+      "sha256": "ea3814d338798c3d1aeed0f50661daae983364beac6fcbf3379ef983b2187102"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2010 Mazda 3 i-Stop.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2010 Mazda 3 i-Stop.yaml",
+      "bytes": 5107,
+      "sha256": "f2380958f1f55a26aa9ca7a9197dae246743eec9a8e70b0c3edc9a551c692b6e"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2012 Ford Focus.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2012 Ford Focus.yaml",
+      "bytes": 5111,
+      "sha256": "8f39531f2f82c8e362ece36d53a5fba6a9781ade8093f85da2a51ffe645f49e6"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2012 Ford Fusion.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2012 Ford Fusion.yaml",
+      "bytes": 5112,
+      "sha256": "68c6a5e9762cf2befae00502e818d3969d0907ed3f2f853d7c1a4d707f903de7"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 AUDI A3 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 AUDI A3 4cyl 2WD.yaml",
+      "bytes": 5127,
+      "sha256": "4c30ff8302a7f241e24b8e71ccc8cd5bacdbd22a0f8cc8b0f5e4e9ef4e0517f6"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 BMW 328d 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 BMW 328d 4cyl 2WD.yaml",
+      "bytes": 5116,
+      "sha256": "6238a0679604045eac2010b874099baf32b520b7790ed915e15f471491aa36ca"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 BMW i3 REx PHEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 BMW i3 REx PHEV.yaml",
+      "bytes": 10822,
+      "sha256": "72f7aaf8d5b1eed234865df02f36d710d13c9e88b55a5107e7c55da27e68cf88"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 CHEVROLET Malibu 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 CHEVROLET Malibu 4cyl 2WD.yaml",
+      "bytes": 5134,
+      "sha256": "ca7de08059dd8f4690c8ba39fdf08d841f21577111ea59cbee1f620697a72890"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 CHEVROLET Spark EV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 CHEVROLET Spark EV.yaml",
+      "bytes": 7313,
+      "sha256": "39056a6e1669b5d48add2946bbeffc4b902bc0d915511b30f75a44fbada401b1"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 CHEVROLET Volt.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 CHEVROLET Volt.yaml",
+      "bytes": 10821,
+      "sha256": "c9451da9583cf0c98e2f6c742800fd6a707e55799518eb63e37e4f9c904e807e"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 FORD C-MAX (PHEV).yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 FORD C-MAX (PHEV).yaml",
+      "bytes": 11052,
+      "sha256": "6398cecfbc205c923d40b353dbd4105caf484c330227687047773077832b0522"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 FORD C-MAX HEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 FORD C-MAX HEV.yaml",
+      "bytes": 11077,
+      "sha256": "cf48f5687b9fa2a52bc2e453692132ed4c8b4990397190dd6374e7468d221188"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 FORD Escape 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 FORD Escape 4cyl 2WD.yaml",
+      "bytes": 5132,
+      "sha256": "e7186cb81999002056f93b0f8578ee7d04d0285c5101e4a7e1095334bec72a63"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 FORD Explorer 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 FORD Explorer 4cyl 2WD.yaml",
+      "bytes": 5133,
+      "sha256": "e4282816aaa10afb95ffd209f7a41e140242527426564c4aad2a5f6770c81c36"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 HYUNDAI Elantra 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 HYUNDAI Elantra 4cyl 2WD.yaml",
+      "bytes": 5134,
+      "sha256": "c489090471e1f68372a4512548535341f7eed5ee28a26a53c939b419eda01401"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 HYUNDAI Sonata PHEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 HYUNDAI Sonata PHEV.yaml",
+      "bytes": 11083,
+      "sha256": "0154778aa5e887e011822466fdd3650349174678f1f98613ff5f256e0b8d89dc"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 Hyundai Tucson Fuel Cell.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 Hyundai Tucson Fuel Cell.yaml",
+      "bytes": 10831,
+      "sha256": "9b1ce55d8dab9801afd83e9291e9007336b462312361a39068c6b1224f9fba68"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 KIA Optima Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 KIA Optima Hybrid.yaml",
+      "bytes": 11082,
+      "sha256": "dbc179fcc7301c372d46519be59e40ed1f6ba126ef7fe3c3d3a11d885fc1b5e5"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 Leaf 24 kWh.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 Leaf 24 kWh.yaml",
+      "bytes": 7305,
+      "sha256": "f71c38c1da9188d92ff97988adc2cb99e16d53fe8d6aba855773db4c7ba6378f"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 MITSUBISHI i-MiEV.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 MITSUBISHI i-MiEV.yaml",
+      "bytes": 7567,
+      "sha256": "b0229583c04666801f7987c9d156df53986594c598c4114f3bafe5ea5850a344"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 Nissan Leaf 30 kWh.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 Nissan Leaf 30 kWh.yaml",
+      "bytes": 7312,
+      "sha256": "e94e2ae5f369511dd0fb87916e6c9ed6c29a5d1410e83950f8f11c88bcfc78f9"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 TESLA Model S60 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 TESLA Model S60 2WD.yaml",
+      "bytes": 7316,
+      "sha256": "e1d3c6de854b9f8789b9e1c0b70e807f377b741e44ffbab8ecdb2ba8e049b856"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 TOYOTA Camry 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 TOYOTA Camry 4cyl 2WD.yaml",
+      "bytes": 5131,
+      "sha256": "791f543d9109a482ee306a458466943dad96fb9fbc8cc76117295728a5a769f7"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 TOYOTA Corolla 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 TOYOTA Corolla 4cyl 2WD.yaml",
+      "bytes": 5131,
+      "sha256": "9a278aa60bba6049f2f821dbb61da10f1fd2875dc81ed328ee39820167194997"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 TOYOTA Highlander Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 TOYOTA Highlander Hybrid.yaml",
+      "bytes": 10831,
+      "sha256": "29199f843568eb93c7869b5615afc8d99080cadba97a087af879e51ffe3aa169"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2016 Toyota Prius Two FWD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2016 Toyota Prius Two FWD.yaml",
+      "bytes": 10772,
+      "sha256": "bd56c59e9aed4d9bffe536abe530bbf7114a0d891130d835677c0b2f6e757b02"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2017 CHEVROLET Bolt.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2017 CHEVROLET Bolt.yaml",
+      "bytes": 7309,
+      "sha256": "593050dd920f4f59f852f61208f3baffdc822114d98bceca838f83ded22ed7ff"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2017 Maruti Dzire VDI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2017 Maruti Dzire VDI.yaml",
+      "bytes": 5110,
+      "sha256": "05ec028b34f09c6914a54b088c7250227fc5a6ba0720564e92af8d13fc05f26c"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2017 Prius Prime.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2017 Prius Prime.yaml",
+      "bytes": 11085,
+      "sha256": "d8cfa0731b1ee44aff47fe403157c64a20f6d31c10c4c254f699b71eb1300318"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2017 Toyota Highlander 3.5 L.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2017 Toyota Highlander 3.5 L.yaml",
+      "bytes": 5126,
+      "sha256": "df84a6715f6c036677356fb337a915b3257bc2322d7725d7bca9cfb82556102d"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2020 Chevrolet Colorado 2WD Diesel.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2020 Chevrolet Colorado 2WD Diesel.yaml",
+      "bytes": 5116,
+      "sha256": "cfedd408e1d4e01bd86e1bfd0bb0fed2526ad3fa71dace2f5e4a3e77c4f5d960"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2020 Hero Splendor+ 100cc.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2020 Hero Splendor+ 100cc.yaml",
+      "bytes": 5185,
+      "sha256": "5e1ace5a11a87d9f9a0b4199ff5f6597829bc89709e7c22e6a7b6ad8e4f8c82e"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2020 VW Golf 1.5TSI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2020 VW Golf 1.5TSI.yaml",
+      "bytes": 5109,
+      "sha256": "4af8fb6b7472bd168cc3cc9aa8bf396ece0fda1a685f4087b523e733b1af6592"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2020 VW Golf 2.0TDI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2020 VW Golf 2.0TDI.yaml",
+      "bytes": 5115,
+      "sha256": "c22293296eeda8f022f31f0c6d414db68a73d9fd73342dbbd3952d8df1ea51fe"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2021 BMW iX xDrive40.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2021 BMW iX xDrive40.yaml",
+      "bytes": 7317,
+      "sha256": "febd43b61a98e10602b96b1a74b8189045f3e90a7a1967938410d806e3ace0b3"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2021 Cupra Born.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2021 Cupra Born.yaml",
+      "bytes": 7314,
+      "sha256": "33a8b2426ef9d508508a40884fb95d7b94f3cc5f06f9d91a38ab55e188bb8e46"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2021 Fiat Panda Mild Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2021 Fiat Panda Mild Hybrid.yaml",
+      "bytes": 5107,
+      "sha256": "2c8c0358a3d3640a5af32d6c62d55503eca9311a5b9606a98085631e42f9e371"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2021 Honda N-Box G.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2021 Honda N-Box G.yaml",
+      "bytes": 5112,
+      "sha256": "f9df6150c9fcc59b0970fcca89b1831cb8be8d710dc2af76047080b6b3641ceb"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2021 Peugot 3008.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2021 Peugot 3008.yaml",
+      "bytes": 5094,
+      "sha256": "40297d97f0b24252347129bbc4c65462ed2432b2f5367ca6ff4550e9366c57d3"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Ford F-150 Lightning 4WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Ford F-150 Lightning 4WD.yaml",
+      "bytes": 7341,
+      "sha256": "6a717284067c8380c1649af7f7878e06849a3449fe076bcd7f7747140389abb6"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 MINI Cooper SE Hardtop 2 door.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 MINI Cooper SE Hardtop 2 door.yaml",
+      "bytes": 7286,
+      "sha256": "fe50933e86ed4bfe5b66a70785ad9aa2b605ec08cec1e4b12696211948b695d8"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Renault Megane E-Tech.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Renault Megane E-Tech.yaml",
+      "bytes": 7322,
+      "sha256": "c27e196c22670976402843ce9153721337ae98042b048a3b16084cb90fcf75f3"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Renault Zoe ZE50 R135.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Renault Zoe ZE50 R135.yaml",
+      "bytes": 7325,
+      "sha256": "e0efc7d5f43be2c666bcbe1548879c4da09d3db3a96ad6ccfd712df9a8a26d94"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Tesla Model 3 RWD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Tesla Model 3 RWD.yaml",
+      "bytes": 7320,
+      "sha256": "59fe41c7cb3eac6dcb9cf8704378e7e05e02152dc8d8869d719c4b755002caa4"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Tesla Model Y RWD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Tesla Model Y RWD.yaml",
+      "bytes": 7263,
+      "sha256": "cb719ffeeafe7c7528cea40690e43d7432a62cf57df1f9b4bbc252257567083d"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Toyota RAV4 Hybrid LE.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Toyota RAV4 Hybrid LE.yaml",
+      "bytes": 10859,
+      "sha256": "40fbfa55af18409bc82a0390386d3f91e7bad572bf927c1c6a59b0afec6d1587"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Toyota Yaris Hybrid Mid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Toyota Yaris Hybrid Mid.yaml",
+      "bytes": 10779,
+      "sha256": "3d90e206ab9d1dbcb34e1dcb4d512842d31ca40b855d09756f37d3ef096d6905"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2022 Volvo XC40 Recharge twin.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2022 Volvo XC40 Recharge twin.yaml",
+      "bytes": 7348,
+      "sha256": "47f89327f78573b23e7fc7dde433e19c279ebeb58732be9012b847bb7bfdf954"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2023 Mitsubishi Pajero Sport.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2023 Mitsubishi Pajero Sport.yaml",
+      "bytes": 5127,
+      "sha256": "689fdfe42a2d8801b9eb20f2bdfe556b2b3bee1c4c2e6524c29febdb2abe4968"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2023 Polestar 2 Long range Dual motor.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2023 Polestar 2 Long range Dual motor.yaml",
+      "bytes": 7358,
+      "sha256": "0a745a5a06d3a0514e8ca767b08eff0183def013ed33eb6e7430e2981d99143c"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2023 Volvo C40 Recharge.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2023 Volvo C40 Recharge.yaml",
+      "bytes": 7333,
+      "sha256": "07b8a2a8947713ccff67cdeb3385fdddfc1fdb06fe0eb0978c77474316513c6b"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2024 BYD Dolphin Active.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2024 BYD Dolphin Active.yaml",
+      "bytes": 7555,
+      "sha256": "246bb2d8d3665d5ffc5dd96e277e28c9c455ef25a10aada48607122175d7af24"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2024 Toyota Vios 1.5 G.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2024 Toyota Vios 1.5 G.yaml",
+      "bytes": 5131,
+      "sha256": "86c290ee1a387073de6c66c5d416f9b2aab560c13e3dc98201f1f2b5cc91d112"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2024 VinFast VF e34.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2024 VinFast VF e34.yaml",
+      "bytes": 7313,
+      "sha256": "ec2cf322421ab20e26ebb4ca475691c08f158a21382497e0bea9a916ace3ee03"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/2024 Volkswagen Polo 1.0 MPI.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/2024 Volkswagen Polo 1.0 MPI.yaml",
+      "bytes": 5125,
+      "sha256": "4f49f3ee9a19c3ec21ef4ae8c4ca13bc9378b7afd60ad93a3048628426201cc7"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/BYD ATTO 3.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/BYD ATTO 3.yaml",
+      "bytes": 7305,
+      "sha256": "710e89e3d6750a09ce0f55ba9b38efeec3eb84a4c478b7854e571d6d6f41236b"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Bajaj Boxer 150.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Bajaj Boxer 150.yaml",
+      "bytes": 5173,
+      "sha256": "e46087ae7ad0cf63d82733557f0e5b7b516f46346c56a7ec91219b5a8dddf8e5"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Class 4 Truck (Isuzu NPR HD).yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Class 4 Truck (Isuzu NPR HD).yaml",
+      "bytes": 5124,
+      "sha256": "f6a7e18866422794d7cbe9d61b8766d3abb2ae30950cb1b7970d9177e254a693"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Line Haul Conv.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Line Haul Conv.yaml",
+      "bytes": 5097,
+      "sha256": "a8570b1520d8a1149bbf9c0077ed36d5fed48e1397161e941e75cbb50fd4fe1c"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Maruti Swift 4cyl 2WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Maruti Swift 4cyl 2WD.yaml",
+      "bytes": 5111,
+      "sha256": "56f30c3f6c4ecee52f63c03f6e79f2f88f36cf98dcf8a6c0c2bb42f94eb8890a"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Nissan Navara.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Nissan Navara.yaml",
+      "bytes": 5105,
+      "sha256": "297324fc3c232d262cd105aa0ae50749e1fce08bba7c17b39fae87dd66c265e5"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Regional Delivery Class 8 Truck.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Regional Delivery Class 8 Truck.yaml",
+      "bytes": 5128,
+      "sha256": "ff9a7b4116473bc3bf9a0b7650b96e275ca4578c9e4b45c604ca79ac28bc9ad9"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Renault Clio IV diesel.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Renault Clio IV diesel.yaml",
+      "bytes": 5101,
+      "sha256": "6bea71c6f3c2b14ce764d63949129b6a38676a7888cdb74b3a25067475d633cf"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Renault Megane 1.5 dCi Authentique.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Renault Megane 1.5 dCi Authentique.yaml",
+      "bytes": 5124,
+      "sha256": "dbe1ad6d045b11239b0c518da28e828dd7e0e3c04244e71c4a736781d366fca9"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Toyota Corolla Cross Hybrid.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Toyota Corolla Cross Hybrid.yaml",
+      "bytes": 10786,
+      "sha256": "057ff9c832f69e8977f49a971564b2b57fc34aba6b3fc80da1705f5f4afae95b"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Toyota Etios Liva diesel.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Toyota Etios Liva diesel.yaml",
+      "bytes": 5114,
+      "sha256": "8ae6c6eac3c77f301b9c54f14f30e7a131a64836c5c42277567c9056a80aadb2"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Toyota Hilux Double Cab 4WD.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Toyota Hilux Double Cab 4WD.yaml",
+      "bytes": 5119,
+      "sha256": "13ce0441651a8379e7a52a83aef1f5ae5cd04d8fe8e847f3be157dd385158dcd"
+    },
+    {
+      "path": "external-data/fastsim/f3-vehicles/Toyota Mirai.yaml",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/fastsim-fastsim-3/cal_and_val/f3-vehicles/Toyota Mirai.yaml",
+      "bytes": 10800,
+      "sha256": "ab2b50aae5de4775e330e88beb459531cfa1c5820c324ba560441b2e723b44c3"
+    },
+    {
+      "path": "external-data/ev-sim/EV_dataset.csv",
+      "originalPath": "/media/cigameca/SHARED/Work/Vehicle_simulation/EV_sim-main.zip:EV_sim-main/EV_sim/data/EV/EV_dataset.csv",
+      "bytes": 4804,
+      "sha256": "ef622761a20d632ecaefbb213bdc0518d15a086f982bef26f01e39bd4ada2435"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "mini-cooper-se-2023",
+  "label": "MINI Cooper SE",
+  "market": "EU, чинна з 11/2023",
+  "powertrain": "electric",
+  "massInRunningOrderKg": 1680,
+  "maximumLadenMassKg": 2055,
+  "dragCoefficient": 0.28,
+  "peakPowerKw": 160,
+  "reductionRatio": 9.303,
+  "dynamicRadiusM": 0.3105,
+  "baseSpeedRpm": 4000,
+  "maximumSpeedRpm": 12000,
+  "published": {
+    "energyKwhPer100km": [
+      14.1,
+      14.7
+    ],
+    "cycle": "WLTP",
+    "meterPoint": "plug",
+    "note": "Діапазон — за розміром шин і обладнанням."
+  },
+  "sources": {
+    "mass, cW, power, ratio, tyres, consumption": "Technical specifications of the MINI Cooper SE, valid from 11/2023",
+    "frontalAreaBoundsM2": "Виробник лобової площі НЕ подає. Нижня межа 2,05 м² — оцінка з габаритів кузова 1756×1460 мм із поправкою на заокруглення. Верхня 2,40 м² — НЕОБҐРУНТОВАНА верхня межа проєкту: у наборі прототипів це значення стоїть для Cooper SE попереднього покоління (F56), а тут інша машина (J01), тому переносом «того самого кузова» це не є. Різниця між межами — головна невизначеність звірки, і саме тому модель подають смугою."
+  },
+  "frontalAreaBoundsM2": [
+    2.05,
+    2.4
+  ],
+  "dimensionsMm": {
+    "width": 1756,
+    "height": 1460
+  },
+  "schema": "prototype-validation-case-v1",
+  "publishedCycleId": "wltc3",
+  "realWorld": {
+    "consumptionKwhPer100km": [
+      14.2,
+      18.1
+    ],
+    "reportedTypical": 17.1,
+    "unit": "kWh/100km",
+    "meterPoint": "plug",
+    "sampleNote": "Окремі записи власників Spritmonitor для Cooper SE: 14,2…18,1 кВт·год/100 км; оглядові джерела подають ≈17,1 у щоденній їзді. Це записи, а не агрегат по моделі.",
+    "source": "Spritmonitor.de (окремі записи), огляди реальної витрати"
+  },
+  "electricShare": 1,
+  "electricShareNote": "Електромобіль: усю тягу веде машина. Число оголошене явно, бо стенд типового значення не бере — інакше гібрид мовчки рахувався б як електромобіль."
+}

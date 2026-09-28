@@ -1,0 +1,54 @@
+{
+  "schema": "prototype-validation-case-v1",
+  "id": "outlander-phev-2014",
+  "label": "Mitsubishi Outlander PHEV",
+  "market": "2014, 2.0 L 4B11, 4WD",
+  "powertrain": "hybrid",
+  "massInRunningOrderKg": 1810,
+  "maximumLadenMassKg": 2310,
+  "dragCoefficient": 0.33,
+  "frontalAreaBoundsM2": [
+    2.65,
+    2.65
+  ],
+  "dimensionsMm": {
+    "width": 1800,
+    "height": 1680
+  },
+  "peakPowerKw": 60,
+  "reductionRatio": 9.0,
+  "dynamicRadiusM": 0.352,
+  "baseSpeedRpm": 4000,
+  "maximumSpeedRpm": 12000,
+  "electricShare": 0.5,
+  "enginePowerKw": 87,
+  "engineTorqueNm": 190,
+  "batteryKwh": 12,
+  "calibrated": {
+    "rollingResistanceF0": 0.012,
+    "note": "Значення з калібрування власної моделі автора на реальних логах — НЕ спільне припущення стенда. Стенд рахує спільним; це подають поруч, щоб було видно різницю."
+  },
+  "published": {
+    "energyKwhPer100km": null,
+    "realWorldFuelLPer100km": 5.72,
+    "cycle": "real-world",
+    "meterPoint": "OBD",
+    "note": "366,27 л на 6400,53 км за 763 поїздки, червень 2025 — липень 2026; двигун працював 50,86 % часу. Це НЕ циклове число: порівнювати його з витратою за WLTC прямо не можна, і стенд цього не робить.",
+    "typeApprovalFuelLPer100km": 1.9,
+    "typeApprovalCycle": "NEDC",
+    "typeApprovalNote": "Паспортна витрата підзарядного гібрида за NEDC. Порівнювати її з реальною можна лише через множник розриву: процедура передбачає щоденне заряджання, і саме тому число таке мале."
+  },
+  "sources": {
+    "усі параметри": "Article_PHEV_1_EN_v32, Table 1 — Publication/Future/ICE_Hybrid",
+    "реальна витрата": "Article_PHEV_1_EN_v32, Table 2 — 763 поїздки OBD-II",
+    "frontalAreaBoundsM2": "2,65 м² — конфігурація моделі автора; на відміну від MINI тут це оголошене число, а не оцінка, тому межі збігаються"
+  },
+  "realWorld": {
+    "consumptionLPer100km": 5.72,
+    "unit": "L/100km",
+    "meterPoint": "OBD",
+    "sampleNote": "Власні логи автора: 366,27 л на 6400,53 км за 763 поїздки, двигун працював 50,86 % часу. Незалежне підтвердження з форумів власників — «близько 5,6 л/100 км загалом».",
+    "source": "Article_PHEV_1_EN_v32, табл. 2; форуми власників Outlander PHEV"
+  },
+  "usage": "private"
+}

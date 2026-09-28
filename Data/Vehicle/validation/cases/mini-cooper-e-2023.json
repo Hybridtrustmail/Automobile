@@ -1,0 +1,46 @@
+{
+  "id": "mini-cooper-e-2023",
+  "label": "MINI Cooper E",
+  "market": "EU, чинна з 11/2023",
+  "powertrain": "electric",
+  "massInRunningOrderKg": 1615,
+  "maximumLadenMassKg": 1990,
+  "dragCoefficient": 0.28,
+  "peakPowerKw": 135,
+  "reductionRatio": 9.303,
+  "dynamicRadiusM": 0.3105,
+  "baseSpeedRpm": 4000,
+  "maximumSpeedRpm": 12000,
+  "published": {
+    "energyKwhPer100km": [
+      13.8,
+      14.3
+    ],
+    "cycle": "WLTP",
+    "meterPoint": "plug"
+  },
+  "sources": {
+    "mass, cW, power, ratio, tyres, consumption": "Technical specifications of the MINI Cooper E, valid from 11/2023",
+    "frontalAreaM2": "як у Cooper SE — той самий кузов",
+    "frontalAreaBoundsM2": "Ті самі межі, що й у Cooper SE: та сама машина, інша потужність."
+  },
+  "frontalAreaBoundsM2": [
+    2.05,
+    2.4
+  ],
+  "dimensionsMm": {
+    "width": 1756,
+    "height": 1460
+  },
+  "schema": "prototype-validation-case-v1",
+  "publishedCycleId": "wltc3",
+  "realWorld": {
+    "consumptionKwhPer100km": null,
+    "unit": "kWh/100km",
+    "meterPoint": "plug",
+    "sampleNote": "Власних записів для Cooper E замало; беруть лише множник розриву для електромобілів.",
+    "source": "—"
+  },
+  "electricShare": 1,
+  "electricShareNote": "Електромобіль: усю тягу веде машина. Число оголошене явно, бо стенд типового значення не бере — інакше гібрид мовчки рахувався б як електромобіль."
+}
